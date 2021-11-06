@@ -31,4 +31,15 @@ Apart from this, we also could spend more effort in feature engineering, to extr
 So, despite of the achived results, there is still room for further improvements.
 
 ## Blog on Medium:
+
+On "medium", an article has been published, which describes the project in detail:  
 [detecting user churn from music sharing platform](https://medium.com/@stone12_49671/detecting-user-churn-from-music-sharing-platform-9e2fc8b3750d)
+
+Content:  
+- Problem Introduction
+- Strategy to solve the problem
+- Metrics
+- Exploratory Data Analysis
+- Feature engineering
+- Modelling, Improvements, Hyperparameter tuning and results
+- Conclusion, further Improvements
